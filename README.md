@@ -1,4 +1,4 @@
-A configurable screensaver type app made with pygame, which itself relies on . Simple GUI modules are combined to create an app. 
+A configurable screensaver type app made with pygame, which itself relies on SDL. Simple GUI modules are combined to create an app. 
 
 Run and study demo.py to see an example.
 
